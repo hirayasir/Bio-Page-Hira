@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<!-- 
+Greetings, I am Hira Yasir, WelCome to My Bio Page.
+-->
+
+<html lang="en">
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <meta name="milestone" content="Bio-Page">
+    <script src="https://tinyurl.com/2p9w5adj"></script>
+    <title>Hira Yasir's Bio Page!</title>
+  </head>
+  <body>
+    <!-- Semantics block container header element! -->
+    <header>
+      <h1>Hira Yasir's Bio Page!</h1>
+        <nav>
+          <p>My <a href="https://www.linkedin.com/in/hira-            yasir/">Linkedln</a> </p>
+        </nav>
+          <p>I am an online tech student at Ira A. Fulton Schools of Engineering at Arizona State University, pursuing a Bachelor of Applied Science in Internet and Web Development. Passionate about <em>personal and professional</em> growth. I label myself multi-purposefully and enjoy learning about numerous subjects within the technology field. When I'm not studying, I enjoy being a wife, homemaker, and mother, and I am excited to continue learning and growing in the tech field! <br>🙂👩‍💻🏠👩‍👨‍👧‍👧</p>
+      </header>
+    <hr>
+    <!-- Semantics block container main element! -->
+    <main>
+      <article>
+        <h3>My Goals🎯</h3>
+          <p>I aim to secure a remote front-end tech internship this summer and then transition into a web development job after completing my degree. My main focus is building <strong>visually appealing websites</strong> and creating a user-friendly experience on a personal level. At the same time, I want to raise my kids to be good human beings and achieve a <strong>work-life balance</strong>.
+          </p>
+      </article>
+        <h3>My Dream Job Road Map❤️</h3>
+            <iframe width="350" height="315" src="https://www.youtube.com/embed/CfyTlpvqnMw?si=X6GpViYcvz5CvHGZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <h3>Family Moments👩‍👨‍👧‍👧</h3>
+         <img width="250px" 
+           src="https://i.imgur.com/ipcR84I.jpg" 
+           alt="Family Image">
+        <h3>Creative Oasis🎨📊🖼️⋆˚✿˖°</h3>
+          <ul>
+            <li>Designing</li>
+            <li>Painting</li>
+            <li>Researching Online</li>
+            <li>Decorting my home</li>
+          </ul>
+        <h3>Bookshelf of Inspiration📖</h3>
+          <ol>
+            <li>She Thinks Like a Boss</li>
+            <li>Hello Beautiful</li>
+            <li>Healing the Soul of a Woman</li>
+          </ol>
+      </main>
+    <hr>
+    <!-- Semantics block container footer element! -->
+    <footer>
+      <p>
+        <small>
+            Thank you for visiting my bio page! I hope                  you enjoyed learning about me and my                        journey as a tech student. Feel free to                     reach out to me with any questions or                       comments! 😊
+          </small>
+      </p>  
+    </footer>
+  </body>
+</html>
